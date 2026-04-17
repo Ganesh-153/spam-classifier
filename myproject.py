@@ -9,7 +9,7 @@ Original file is located at
 
 
 
-!pip install streamlit pyngrok
+pip install streamlit pyngrok
 from pyngrok import ngrok
 ngrok.set_auth_token("3CUgWlvKkLNet5iwexAPpJPNPXr_2kYUVBBtXjh6Eyuri64A8")
 
